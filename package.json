@@ -2,7 +2,7 @@
   "name": "youtube_clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://roobeen-b.github.io",
+  "homepage": "https://roobeen-b.github.io/youtube_clone",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
